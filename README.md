@@ -22,7 +22,11 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-# shine
-第一步
-Creating the Rails Application
-Setting Up Bootstrap with NPM and Webpack
+# Shine
+
+#第一步
+ * Creating the Rails Application
+ * Setting Up Bootstrap with NPM and Webpack
+
+ * npm install 进行安装 package.json 声明的版本插件
+ * foreman start 启动 默认本地访问localhost:5000
